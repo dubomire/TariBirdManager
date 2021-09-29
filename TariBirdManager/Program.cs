@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TariManager
+namespace TariBirdManager
 {
     class Program
     {

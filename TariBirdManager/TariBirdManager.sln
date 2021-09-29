@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TariManager", "TariManager.csproj", "{216CD488-E362-4407-A86A-2DEB6227BE3F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TariBirdManager", "TariBirdManager.csproj", "{216CD488-E362-4407-A86A-2DEB6227BE3F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
